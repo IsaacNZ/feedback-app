@@ -8,17 +8,17 @@ export const FeedbackProvider = ({ children }) => {
     {
       id: 1,
       rating: 10,
-      text: 'from context 1',
+      text: 'Example Item 1',
     },
     {
       id: 2,
       rating: 6,
-      text: 'from context 2',
+      text: 'Example Item 2',
     },
     {
       id: 3,
       rating: 4,
-      text: 'from context 3',
+      text: 'Example Item 3',
     },
   ]);
 
